@@ -1,0 +1,7 @@
+This is an independent Nx/Bumblebee implementation compatible with Laya.
+
+Laya is a model published by Convai Innovations:
+https://laya.convaiinnovations.com/
+
+Model checkpoints are downloaded separately from:
+https://huggingface.co/convaiinnovations/laya
